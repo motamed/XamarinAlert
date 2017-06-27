@@ -9,7 +9,7 @@
 <br/>
 
 ## Displaying an Alert
-***
+
 > #### All Xamarin.Forms-supported platforms have a modal pop-up to alert the user or ask simple questions of them. To display these alerts in Xamarin.Forms, use the DisplayAlert method on any Page. The following line of code shows a simple message to the user:
 
 ``` cs
