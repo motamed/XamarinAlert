@@ -1,7 +1,7 @@
 
 # How to Display Alert / Popup Message in Xamarin.Forms
 
-### Displaying an alert or asking a user to make a choice is a common UI task. Xamarin.Forms has two methods on the Page class for interacting with the user via a pop-up: DisplayAlert and DisplayActionSheet. They are rendered with appropriate native controls on each platform.
+### Displaying an alert or asking a user to make a choice is a common UI task. Xamarin.Forms has two methods on the Page class for interacting with the user via a pop-up: DisplayAlert and [DisplayActionSheet](https://github.com/motamed/XamarinActionSheet). They are rendered with appropriate native controls on each platform.
 
 <br/>
 
